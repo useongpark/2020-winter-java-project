@@ -21,7 +21,7 @@ public class OperatorEx1 {
 		// 결과값 바꾸게 하는 법(값을 설정해야 한다.)
 		num1 = -num1;
 		num2 = -num2;
-		
+				
 		
 		// 사칙연산
 		int num = 10%3;
