@@ -35,6 +35,26 @@ public class OperatorEx1 {
 		System.out.println(num4);
 		
 		// 대입 연산자
+		int number4 = 120;
+		number4 += 1455;
+		
+		System.out.println(number4);
+		
+		
+		// 단항 연산자
+		int score = 100;
+		
+		System.out.println(++score); //101
+//같다  	score = score + 1;
+//같다   score += 1;
+		
+		
+		System.out.println(score++); // 이 statement가 끝난 후에 증가됌
+		System.out.println(score); // 102
+		
+		System.out.println(--score); // 101
+		System.out.println(score--); // 101
+		System.out.println(score); // 100
 		
 		
 		
