@@ -1,4 +1,4 @@
-package ifstatement;
+package controlstatement;
 
 import java.util.Scanner; // JAVA Scanner class
 
