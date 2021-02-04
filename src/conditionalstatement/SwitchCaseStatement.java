@@ -1,4 +1,4 @@
-package controlstatement;
+package conditionalstatement;
 
 import java.util.Scanner;
 
